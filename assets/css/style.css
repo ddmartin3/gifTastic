@@ -1,0 +1,51 @@
+.item{
+	float: left;
+	text-align: center;
+	margin-top: 5px;
+}
+
+h1{
+	width: 280px;
+	margin-left: 50px;
+	color: white;
+	background-color: red;
+	font-size: 3em;
+}
+
+button{
+	color: white;
+	background-color: red;
+}
+
+#header{
+	width:75%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.button-header{
+	width: 75%;
+	margin-left: 10px;
+}
+
+.getGifs{
+	margin-left: 10px;
+}
+
+.main{
+	margin-left: 20px;
+	width: 600px;
+    float: left;
+}
+
+img{
+	height: 150px;
+	margin-left:  10px;
+	margin-bottom: 1px;
+}
+
+.button-maker{
+	position: absolute;
+    margin-left: 30px;
+    left: 700px;
+}
