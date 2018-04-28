@@ -14,6 +14,11 @@ To decrease load times the gifs are loaded not playing.  To see funny antics, cl
 
 
 =============================
-*phone: 520-230-9944 *email: darwood.martin@gmail.com *website: badmotoscootin.com *website: evmotoblog.com *instgram: @badmotoscootin
+
+*phone: 520-230-9944 
+*email: darwood.martin@gmail.com 
+*website: badmotoscootin.com 
+*website: evmotoblog.com *
+instgram: @badmotoscootin
 
 Copyright Darwood Martin 2018
